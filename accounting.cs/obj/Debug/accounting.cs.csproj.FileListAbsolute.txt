@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\bin\Debug\accounting.cs.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\bin\Debug\accounting.cs.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\bin\Debug\accounting.cs.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\obj\Debug\accounting.cs.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\obj\Debug\accounting.cs.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\obj\Debug\accounting.cs.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\accounting.cs\obj\Debug\accounting.cs.pdb
