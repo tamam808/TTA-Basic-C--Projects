@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
