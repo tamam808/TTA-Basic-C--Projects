@@ -20,7 +20,7 @@ namespace InsuranceApproval
             string tix = Console.ReadLine();
             int speeding = Convert.ToInt32(tix);
             Console.WriteLine("Qualified?");
-            Console.WriteLine(yearsold >= 15 && dui_bool == false && speeding <= 3);
+            Console.WriteLine(yearsold > 15 && dui_bool == false && speeding <= 3);
             Console.ReadLine();
         }
     }
