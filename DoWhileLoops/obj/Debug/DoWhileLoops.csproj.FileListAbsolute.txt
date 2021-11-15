@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\bin\Debug\DoWhileLoops.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\bin\Debug\DoWhileLoops.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\bin\Debug\DoWhileLoops.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\obj\Debug\DoWhileLoops.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DoWhileLoops\obj\Debug\DoWhileLoops.pdb
