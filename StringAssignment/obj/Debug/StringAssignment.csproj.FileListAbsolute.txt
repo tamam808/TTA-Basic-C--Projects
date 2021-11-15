@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\StringAssignment\obj\Debug\StringAssignment.pdb
