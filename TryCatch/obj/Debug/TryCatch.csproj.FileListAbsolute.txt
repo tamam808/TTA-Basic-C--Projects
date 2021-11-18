@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\TryCatch\obj\Debug\TryCatch.pdb
