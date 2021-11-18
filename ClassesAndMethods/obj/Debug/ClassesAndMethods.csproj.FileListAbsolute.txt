@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\bin\Debug\ClassesAndMethods.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\obj\Debug\ClassesAndMethods.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\obj\Debug\ClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\obj\Debug\ClassesAndMethods.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ClassesAndMethods\obj\Debug\ClassesAndMethods.pdb
