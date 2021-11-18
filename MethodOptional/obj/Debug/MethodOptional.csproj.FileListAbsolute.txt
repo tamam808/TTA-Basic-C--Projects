@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\bin\Debug\MethodOptional.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\bin\Debug\MethodOptional.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\bin\Debug\MethodOptional.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\obj\Debug\MethodOptional.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\obj\Debug\MethodOptional.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\obj\Debug\MethodOptional.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\MethodOptional\obj\Debug\MethodOptional.pdb
