@@ -17,7 +17,7 @@ namespace TryCatch
                 int userNum = Convert.ToInt32(Console.ReadLine());
                 foreach (int number in numbers)
                 {
-                    double dividedBy = (double)number / (double)userNum;
+                    int dividedBy = number / userNum;
                     string newNum = number + " divided by " + userNum + " equals: " + dividedBy;
                     Console.WriteLine(newNum);
                 }
