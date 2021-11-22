@@ -18,7 +18,7 @@ namespace Abstraction
         //defined Quit method with a console.writeline
         public void Quit()
         {
-            Console.WriteLine("I quit!");
+            Console.WriteLine($"{FirstName} {LastName} is quitting!");
         }
     }
 }
