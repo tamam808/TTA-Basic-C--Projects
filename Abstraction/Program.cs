@@ -16,6 +16,10 @@ namespace Abstraction
             employee.LastName = "Student";
             //call SayName method from Employee class which will print out a full name
             employee.SayName();
+            //create an object of IQuittable type
+            IQuittable employee2 = new Employee();
+            //calling Quit method on employee2 object
+            employee2.Quit();
             Console.ReadLine();
         }
     }
