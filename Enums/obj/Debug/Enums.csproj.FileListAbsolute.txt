@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\bin\Debug\Enums.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\bin\Debug\Enums.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\bin\Debug\Enums.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\obj\Debug\Enums.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Enums\obj\Debug\Enums.pdb
