@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\bin\Debug\Lambda.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\obj\Debug\Lambda.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\Lambda\obj\Debug\Lambda.pdb
