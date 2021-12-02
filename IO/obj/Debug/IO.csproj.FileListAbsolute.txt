@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\bin\Debug\IO.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\bin\Debug\IO.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\bin\Debug\IO.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\obj\Debug\IO.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\IO\obj\Debug\IO.pdb
