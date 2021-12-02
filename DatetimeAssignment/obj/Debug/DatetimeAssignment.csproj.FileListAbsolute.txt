@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb
