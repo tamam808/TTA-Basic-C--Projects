@@ -1,0 +1,7 @@
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\Tama\Documents\GitHub\TTA-Basic-Csharp-Projects\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
